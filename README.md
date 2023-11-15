@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BulatMakhmutov
+- 👀 I’m interested in math and statistics
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on some projects
+- 📫 How to reach me: makhmutovbulat1@gmail.com
