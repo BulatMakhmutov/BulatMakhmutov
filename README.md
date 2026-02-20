@@ -1,5 +1,15 @@
-- 👋 Hi, I’m @BulatMakhmutov
-- 👀 I’m interested in math and statistics
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me: makhmutovbulat1@gmail.com
+## Hi, I'm Bulat Makhmutov
+
+Mathematics & Statistics student at Queen Mary University  
+Interested in Data Science, Machine Learning, and applied modeling.
+
+### Current Focus
+- Cost-sensitive modeling
+- Imbalanced classification problems
+- Statistical learning methods
+
+### Projects
+- Cost-Sensitive Fraud Detection (Logistic Regression, PR-AUC, Threshold Optimization)
+
+### Contact
+📫 makhmutovbulat1@gmail.com
